@@ -655,6 +655,18 @@ padding: 0;
 	}
 	  
 }
+
+.btn_visit{
+	outline: none;
+	border-style: none;
+	outline-style: none;
+	margin-bottom: 20px;
+	padding: 10px;
+	cursor: pointer;
+	background-color: rgb(49, 148, 49);
+	color: white;
+	font-weight: bold;
+}
 @media (min-width:651px) and (max-width:695px) {
 	.info-header{
 		justify-content: flex-start;
